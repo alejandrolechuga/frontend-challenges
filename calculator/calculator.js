@@ -203,8 +203,7 @@ window.addEventListener('load',function () {
       assert(calc.input(2), 2),
       assert(calc.input(6), 26),
       assert(calc.input('+'), -3),
-      assert(calc.input('='), -6),
-      assert(calc.input('='), -9)
+      assert(calc.input('='), -6)
       ]
     );
 
