@@ -1,4 +1,4 @@
 # frontend-challenges
 
 
-Simple Calculator 
+[Simple HTML JavaScript Calculator](calculator/calculator.js)
